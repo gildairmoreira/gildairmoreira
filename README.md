@@ -5,7 +5,7 @@
 - 💬 Atualmente estudo por conta propria
 - 📫 email de Contato: contato.gildair@gmail.com
 
-<div align="center">
+<div align="center"; display=block;>
   <a href="https://github.com/gildairmoreira">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gildairmoreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildairmoreira&layout=compact&langs_count=7&theme=github_dark"/>
