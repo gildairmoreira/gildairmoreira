@@ -4,12 +4,17 @@
 - 🌱 Estou focado em me aperfeiçoar nas linguagens HTML, CSS, JavaScript, Python
 - 💬 Atualmente estudo por conta propria
 - 📫 email de Contato: contato.gildair@gmail.com
+|--|--|
 
+## Algumas das minhas estatísticas 📊
 <div align="center"; display=block;>
   <a href="https://github.com/gildairmoreira">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gildairmoreira&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildairmoreira&layout=compact&langs_count=7&theme=moltack"/>
-  </div>
+  |--|--|
+    
+  <br>
+ </div>
 
 
 </div>
