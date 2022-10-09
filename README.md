@@ -1,10 +1,10 @@
-### Olá, meu Nome e Gildair Moreira 👋
+### Olá, meu Nome e Gildair Moreira 👋  <br>
 
 - 🗿🍷 Estou trabalhando para ser um programador Full stack, é usar esse conhecimento para melhorar os bussines das pessoas.
 - 🌱 Estou focado em me aperfeiçoar nas linguagens HTML, CSS, JavaScript, Python
 - 💬 Atualmente estudo por conta propria
 - 📫 email de Contato: contato.gildair@gmail.com
-|--|--|
+  <br>
 
 ## Algumas das minhas estatísticas 📊
 <div align="center"; display=block;>
