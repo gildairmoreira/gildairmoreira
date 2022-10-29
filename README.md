@@ -1,6 +1,6 @@
 ### Olá, meu Nome e Gildair Moreira 👋  <br>
 
-- 🗿🍷 Estou trabalhando para ser um programador Front-end, é usar esse conhecimento para melhorar os bussines das pessoas.
+- 🗿🍷 Estou trabalhando para ser um programador Front-end, é usar esse conhecimento para inovar os negócios das empresas.
 - 🌱 Estou focado em me aperfeiçoar nas linguagens HTML, CSS, JavaScript, Python
 - 💬 Atualmente estudo por conta propria
 - 📫 email de Contato: contato.gildair@gmail.com
