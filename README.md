@@ -22,7 +22,6 @@
   <img align="center" alt="gil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="gil-Python" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://cdn.iconscout.com/icon/free/png-256/saas-457964.png)">
   <img align="right" alt="gil-pic" height="150" style="border-radius:50px;" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f5ff.png">
 </div>
     
