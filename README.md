@@ -1,7 +1,7 @@
 ### Olá, meu Nome e Gildair Moreira 👋  <br>
 
-- 🗿🍷 Estou trabalhando para ser um programador Front-end,.
-- 🌱 Estou focado em me aperfeiçoar nas linguagens HTML, CSS, JavaScript, typescript, react
+- 🗿🍷 Estou trabalhando para ser um programador Front-end.
+- 🌱 Estou focado em me aperfeiçoar nas linguagens JavaScript, typescript, react
 - 💬 Atualmente estudo por conta propria
 - 📫 email de Contato: contato.gildair@gmail.com
   <br>
@@ -19,10 +19,14 @@
 
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="gil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gil-pic" height="150" style="border-radius:50px;" src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f5ff.png">
+  <img align="center" alt="gil-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="gil-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="gil-Bootstrap" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="gil-react" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
+  <img align="center" alt="gil-sass" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" >
+  <img align="center" alt="gil-wp" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
     
   ##
