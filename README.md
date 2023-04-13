@@ -2,7 +2,7 @@
 
 - 🔱 Estou trabalhando para ser um programador Front-end.
 - 📘 Estou focado em me aperfeiçoar nas linguagens JavaScript, typescript, reactJS, reactNative
-- ✍️ Atualmente estudo por conta propria
+- ✍️ Atualmente estudo na alura é por conta propria
 - 📖 Portifolio: EM BREVE
 - 📫 email de Contato: contato.gildair@gmail.com
   <br>
