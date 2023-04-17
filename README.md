@@ -3,7 +3,7 @@
 - 🔱 Estou trabalhando para ser um programador Front-end.
 - 📘 Estou focado em me aperfeiçoar nas linguagens JavaScript, typescript, reactJS, reactNative
 - ✍️ Atualmente estudo na alura é por conta propria
-- 📖 Portifolio: EM BREVE
+- 📖 Portifolio: <a href="https://github.com/gildairmoreira](https://portifolio-gildair.vercel.app/">CLIQUE AQUI</a>
 - 📫 email de Contato: contato.gildair@gmail.com
   <br>
 
