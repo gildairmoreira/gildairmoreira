@@ -27,7 +27,7 @@
   <img align="center" alt="gil-Bootstrap" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="gil-react" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
   <img align="center" alt="gil-sass" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" >
-  <img align="center" alt="gil-wp" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+
 </div>
     
   ##
