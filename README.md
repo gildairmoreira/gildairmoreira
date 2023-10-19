@@ -1,17 +1,22 @@
 # 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=gildairmoreira&icon=0&color=1)](https://visitcount.itsvg.in)
 ### Olá, meu Nome e Gildair Moreira 👋  <br><br><br>- 🔱 Estou Estudando para ser um programador FullStack.<br>- ✍️ Atualmente estudo autodidata<br>- 📖 Portifolio: <a href="https://portifolio-gildair.vercel.app/" target="_blank">CLIQUE AQUI</a><br>- 📫 email de Contato: contato.gildair@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gildair-moreira/) 
+<a href="https://instagram.com/gildairmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.gildair@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gildair-moreira-420408241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 # 📊 GitHub Stats:
-
+<div display:flex>
   ![](https://github-readme-stats.vercel.app/api?username=gildairmoreira&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gildairmoreira&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
   
+</div>
+  
 ---
-[![](https://visitcount.itsvg.in/api?id=gildairmoreira&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 
 # 💻 Tech Stack:
@@ -20,9 +25,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   ##
  <div>
-  <a href="https://instagram.com/gildairmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.gildair@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gildair-moreira-420408241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gildairmoreira/gildairmoreira/output/github-contribution-grid-snake-dark.svg">
