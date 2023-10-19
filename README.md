@@ -6,13 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gildair-moreira/) 
 
 # 📊 GitHub Stats:
-<div display:flex;>
-  ![](https://github-readme-stats.vercel.app/api?username=gildairmoreira&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gildairmoreira&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gildairmoreira&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-</div>
-  
 
+  ![](https://github-readme-stats.vercel.app/api?username=gildairmoreira&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gildairmoreira&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  
 ---
 [![](https://visitcount.itsvg.in/api?id=gildairmoreira&icon=0&color=1)](https://visitcount.itsvg.in)
 
