@@ -1,6 +1,6 @@
 # About Me:
 [![](https://visitcount.itsvg.in/api?id=gildairmoreira&icon=0&color=1)](https://visitcount.itsvg.in)
-### Olá, meu Nome e Gildair Moreira 👋  <br><br><br>- 🔱 Estou Estudando para ser um programador FullStack.<br>- ✍️ Atualmente estudo autodidata<br>- 📖 Portifolio: <a href="https://portifolio-gildair.vercel.app/" target="_blank">CLIQUE AQUI</a><br>- 📫 email de Contato: contato.gildair@gmail.com
+### Olá, meu Nome e Gildair Moreira 👋  <br><br><br>- 🔱 Estou Estudando para ser um programador FullStack Mobile.<br>- ✍️ Atualmente estudo autodidata<br>- 📖 Portifolio: <a href="https://portifolio-gildair.vercel.app/" target="_blank">CLIQUE AQUI</a><br>- 📫 email de Contato: contato.gildair@gmail.com
 
 ## 🌐 Socials:
 <p align="left">
