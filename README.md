@@ -4,7 +4,7 @@
 
   
 ---
-### Olá, meu Nome e Gildair Moreira 👋  <br><br><br>- 🔱 Estou Estudando para ser um programador FullStack Mobile.<br>- ✍️ Atualmente estudo autodidata<br>- 📖 Portifolio: <a href="https://portifolio-gildair.vercel.app/" target="_blank">CLIQUE AQUI</a><br>- 📫 email de Contato: contato.gildair@gmail.com
+### Olá, meu Nome e Gildair Moreira 👋  <br><br><br>- 🔱 Estou Estudando para ser um programador Mobile FullStack.<br>- ✍️ Atualmente estudo autodidata<br>- 📖 Portifolio: <a href="https://portifolio-gildair.vercel.app/" target="_blank">CLIQUE AQUI</a><br>- 📫 email de Contato: contato.gildair@gmail.com
 
 ---
 
