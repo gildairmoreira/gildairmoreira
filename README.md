@@ -1,11 +1,11 @@
-# About Me:
+# Sobre:
 <!-- [![](https://visitcount.itsvg.in/api?id=gildairmoreira&icon=8&color=12)](https://visitcount.itsvg.in) -->
 
 <br/>
 
   
 ---
-### Olá, meu Nome e Gildair Moreira 👋  <br><br><br>- 🔱 Programador FullStack Mobile.<br>- ✍️ Sistemas de informação - UFV<br>- 📖 Portifolio: <a href="https://portifolio-gildair.vercel.app/" target="_blank">CLIQUE AQUI</a><br>- 📫 email de Contato: contato.gildair@gmail.com
+### Olá, meu Nome e Gildair Moreira 👋  <br><br><br>- 📱 Programador FullStack Mobile.<br>- ✍️ Sistemas de informação - UFV<br>- 📖 Portifolio: <a href="https://portifolio-gildair.vercel.app/" target="_blank">CLIQUE AQUI</a><br>- 📫 email de Contato: contato.gildair@gmail.com
 
 ---
 
