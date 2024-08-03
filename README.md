@@ -1,5 +1,6 @@
 # About Me:
-[![](https://visitcount.itsvg.in/api?id=gildairmoreira&icon=8&color=12)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=gildairmoreira&icon=8&color=12)](https://visitcount.itsvg.in) -->
+
 <br/>
 
   
