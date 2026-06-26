@@ -2,8 +2,8 @@
 
 **Desenvolvedor Front-end** com expertise em React/Next.js e experiência em Mobile & Back-end  
 🎓 Graduando em Sistemas de Informação - UFV  
-🚀 Portfólio: [gildairmoreira.com](https://gildairmoreira.com)  
-📫 Contato: [contato.gildair@gmail.com](mailto:contato.gildair@gmail.com)
+🚀 Portfólio: [portifolio-gildair.vercel.app](https://portifolio-gildair.vercel.app/)  
+📫 Contato: [gildair457@gmail.com](mailto:gildair457@gmail.com)
 
 ---
 
